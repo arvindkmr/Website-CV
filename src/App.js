@@ -1,11 +1,12 @@
-import logo from './logo.svg';
+import photo from './photo.jpg';
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={photo}   className="App-logo" alt="logo" />
         <p>
           Arvind Baloda - Frontend (React ) Developer - SDE-1
         </p>
