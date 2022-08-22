@@ -17,6 +17,15 @@ function App() {
         >
           Linkedin Profile
         </a>
+        <br />
+        <a
+          className="App-link"
+          href="https://github.com/arvindkmr"
+          // target="_blank"
+          rel="noopener noreferrer"
+        >
+Github profile
+        </a>
       </header>
     </div>
   );
