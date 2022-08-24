@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={photo} className="App-logo" alt="logo" />
-        <p>Arvind Baloda - Frontend (React ) Developer - SDE-1</p>
+        <p className= "Heading">Arvind Baloda - Frontend (React ) Developer - SDE-1</p>
+   
         <a
           className="App-link"
           href="https://www.linkedin.com/in/arvind-baloda-%F0%9F%98%8A-b4b4421b2/"
@@ -15,7 +16,7 @@ function App() {
         >
           Linkedin Profile
         </a>
-        <br />
+       
         <a
           className="App-link"
           href="https://github.com/arvindkmr"
@@ -25,6 +26,10 @@ function App() {
           Github profile
         </a>
       </header>
+      <div className="Projects">
+      <h1 className='Projects-header'> Projects</h1>
+        
+      </div>
     </div>
   );
 }
