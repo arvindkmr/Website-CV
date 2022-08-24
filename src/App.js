@@ -26,10 +26,10 @@ function App() {
           Github profile
         </a>
       </header>
-      {/* <div className="Projects">
+      <div className="Projects">
       <h1 className='Projects-header'> Projects</h1>
 
-      </div> */}
+      </div>
     </div>
   );
 }
